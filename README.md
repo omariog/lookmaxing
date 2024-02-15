@@ -1,5 +1,2 @@
-# LOOK AT THIS FUNNY CREATURE
-![alt text](https://github.com/omariog/mr_beast/blob/main/Real.jpg)
-
-## Totaly a real photo of me 
-![alt text](https://github.com/omariog/mr_beast/blob/main/maxresdefault.jpg)
+# Keep a look out for this man
+![alt text](https://github.com/omariog/lookmaxing/blob/morefunnines/wanted.webp)
